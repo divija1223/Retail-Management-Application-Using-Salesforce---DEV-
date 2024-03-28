@@ -1,1 +1,31 @@
+Name of the Student : Arunachalamgari Divija
+Learning Track : Salesforce Developer
+Project Name : Retail Management Application Using Salesforce -(DEV)
+Trailhead Profile : https://www.salesforce.com/trailblazer/divijaarunachalamgari
+Developer org Username : divijadivi33337@gdcproject.com
+Developer Password : Gayatri@12345
+Position : Team Lead
 
+Name of the Student : Peddintigari Mounika
+Learning Track : Salesforce Developer
+Project Name : Retail Management Application Using Salesforce -(DEV)
+Trailhead Profile : https://www.salesforce.com/trailblazer/peddintigarimounika
+Developer org Username : mounikapeddintigari5@gdcproject.com
+Developer Password : Gayatri@12345
+Position : Team Member
+
+Name of the Student : Pallam Pravalika
+Learning Track : Saleaforce Developer
+Project Name : Retail Management Application Using Salesforce -(DEV)
+Trailhead Profile : https://www.salesforce.com/trailblazer/pravalikapallam
+Developer org Username : pravpravalika20207@gdcproject.com
+Developer Password : Gayatri@12345
+Position : Team Member
+
+Name of the Student : Sarithala Fakrunnisa
+Learning Track : Saleaforce Developer
+Project Name : Retail Management Application Using Salesforce -(DEV)
+Trailhead Profile : https://www.salesforce.com/trailblazer/sarithalafakrunnisa
+Developer org Username : sarithalafakrunnisa50309@gdcproject.com
+Developer Password : Gayatri@12345
+Position : Team Member
